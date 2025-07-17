@@ -2,7 +2,7 @@
 
 A data-driven case study exploring Uber’s operational challenges in managing supply and demand for airport pickups and drop-offs.
 
----
+--
 
 ## Problem Statement
 Uber is facing frequent driver cancellations and unavailability of cabs for trips to and from the airport. This mismatch results in poor user experience and significant revenue loss.
@@ -12,20 +12,20 @@ Uber is facing frequent driver cancellations and unavailability of cabs for trip
 ## Objective
 To identify the root causes of the supply-demand gap in Uber rides specifically between the City and Airport, and recommend data-driven operational solutions.
 
----
+--
 
 ## Dataset 📁
 - [Uber Data.csv](https://github.com/Praneeth2003-oss/uber-supply-demand-analysis/blob/6ecd785a7d7577e59aa273f6da01c8b90e6bb986/Uber%20Data.csv)
 - [Uber_Data.csv](https://github.com/Praneeth2003-oss/uber-supply-demand-analysis/blob/80d15efa8bf28cd6817d806b064e1143fba7c466/Uber_Data.csv)
 
----
+--
 
 ## Tools Used 
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook for exploratory data analysis
 - Microsoft Excel
 
----
+--
 
 ### Data Preparation
 - Imported and merged raw data
@@ -38,7 +38,7 @@ To identify the root causes of the supply-demand gap in Uber rides specifically 
 - Analyzed types of requests: `Completed`, `Cancelled`, `No Cars Available`
 - Focused on airport-related trends across time windows
 
----
+--
 
 ## Key Insights
 
@@ -48,7 +48,7 @@ To identify the root causes of the supply-demand gap in Uber rides specifically 
 - 15% due to cancellations (morning, city)
 - 15% due to no cars available (evening, airport)
 
----
+--
 
 ## Business Impact
 
@@ -57,7 +57,7 @@ Without intervention, Uber risks:
 - Poor user satisfaction due to frequent cancellations and no-shows
 - Reduced driver utilization and inefficient dispatching
 
----
+--
 
 ## ✅ Recommendations
 
