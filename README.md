@@ -7,7 +7,7 @@ A data-driven case study exploring Uber’s operational challenges in managing s
 ## Problem Statement
 Uber is facing frequent driver cancellations and unavailability of cabs for trips to and from the airport. This mismatch results in poor user experience and significant revenue loss.
 
----
+--
 
 ## Objective
 To identify the root causes of the supply-demand gap in Uber rides specifically between the City and Airport, and recommend data-driven operational solutions.
